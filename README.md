@@ -2,6 +2,8 @@
 
 Bill of materials (BoM) used to build my home office setup
 
+## Purchased via MyTBenefits / directly by me
+
 | **Name** | **Category** | **Price** | **Photo** | **Purchased** |
 |---|---|---|---|:---:|
 | [IKEA tampo lagkapten, verde claro, 140x60 cm](https://www.ikea.com/pt/pt/p/lagkapten-tampo-verde-claro-20522560/) | Desks and Workstations | EUR 35.00 | ![Photo](https://www.ikea.com/pt/pt/images/products/lagkapten-tampo-verde-claro__1073229_pe855663_s5.jpg) | ✅ |
@@ -20,3 +22,13 @@ Bill of materials (BoM) used to build my home office setup
 | [AMAZON quadro branco magnético com bandeja para marcadores e moldura de alumínio, 120 cm x 90 cm](https://www.amazon.es/gp/product/B077T5RQF7) | Boards and Flip Charts | EUR 37.99 | ![Photo](https://m.media-amazon.com/images/I/51AuzSTezFL._AC_SX679_.jpg) | ✅ |
 | [STAEDTLER 351 wp6 marcadores para quadro branco lumocolor, pacote de 6 cores sortidas](https://www.amazon.es/gp/product/B000J69O8E/) | Boards and Flip Charts | EUR 7.61 | ![Photo](https://m.media-amazon.com/images/I/61eAia6XYkL._AC_SX679_.jpg) | ✅ |
 | [BI-OFFICE aa0105, apagador magnético para quadro branco](https://www.amazon.es/gp/product/B000NMAY74/) | Boards and Flip Charts | EUR 5.29 | ![Photo](https://m.media-amazon.com/images/I/4154td5lBML._AC_.jpg) | ✅ |
+| [Webcam Logitech StreamCam Full HD 1080p USB 3.1 Type-C Preta](https://www.pcdiga.com/webcam-logitech-for-creators-streamcam-full-hd-1080p-usb-3-1-type-c-preta-960-001281?search=webcam%20logitech) | Webcams | EUR 124.90 | ![Photo](https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/0/p027047_1.jpg) | ✅ |
+| [Cadeira Gaming Sharkoon Skiller SGS20 Preta/Cinzenta](https://www.pcdiga.com/cadeira-gaming-sharkoon-skiller-sgs20-preta-vermelha-4044951034994?search=cadeira) | Chairs and Ergonomics | EUR 229.90 | ![Photo](https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/s/g/sgs20_pu_red_01.jpg) | ✅ |
+
+## Provided directly by tb.lx
+
+| **Name** | **Category** | **Price** | **Photo** | **Purchased** |
+|---|---|---|---|:---:|
+| [Apple Magic Keyboard 2 - Português](https://www.amazon.com.br/Apple-MLA22LL-A-Magic-Keyboard/dp/B016QO64FI) | Keyboards | No Longer Available | ![Photo](https://m.media-amazon.com/images/I/71RlPPhBpQL._AC_SL1500_.jpg) | ✅ |
+| [Logitech MX Master 2S](https://www.logitech.com/en-us/eol/mx-master-2s-mouse.910-005131.html) | Mouses | No Longer Available | ![Photo](https://resource.logitech.com/w_900,h_900,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/products/logitech/mice/mx-master-2s-mouse/910-005131/mx-master-2s65106.png?v=1) | ✅ |
+| [Samsung 28" UHD Monitor (LU28R550UQRXEN)](https://www.samsung.com/pt/monitors/high-resolution/ur55-28-inch-ips-uhd-4k-lu28r550uqrxen/) | Monitors | EUR 250 | ![Photo](https://images.samsung.com/is/image/samsung/p6pim/pt/lu28r550uqrxen/gallery/pt-uhd-ur55-333713-lu28r550uqrxen-458304231?$1300_1038_PNG$) | ✅ |
